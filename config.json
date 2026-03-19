@@ -1,0 +1,35 @@
+{
+    "hola": [
+        "Hola!!",
+        "¿Hola, Como va tu día?",
+        "Muy buenas, te gustaría conversar un momento"
+    ],
+    "hora": [
+        "Hora actual",
+        "Dime la hora"
+    ],
+    "nombre": [
+        "Soy tu chatbot 🤖",
+        "Aún no tengo nombre 😅"
+    ],
+    "como estas": [
+        "Estoy bien 😄 ¿y tú?",
+        "Todo genial por aquí"
+    ],
+    "tengo sed": [
+        "bebe agua",
+        "toma agua",
+        "HIDRATATE"
+    ],
+    "gracias": [
+        "no hay problema!!",
+        "De nada!!"
+    ],
+    "te quiero": [
+        "yo tambien te quiero!!!"
+    ],
+    "si": [
+        "Que tema te gustaria hablar?",
+        "OK... Hablemos"
+    ]
+}
